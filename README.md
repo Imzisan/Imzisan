@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sakibhossainzisan@gmail.com**
 
-- ⚡ Fun fact **I am also a compititive e-sprots gamer 😎**
+- ⚡ Fun fact **I am also a compititive e-sports gamer 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
