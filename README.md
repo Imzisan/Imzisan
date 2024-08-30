@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Sakib Hossain Zisan</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--AIJ6PY4S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://2.bp.blogspot.com/-8Xlol4MCT4g/WWwiuiz72NI/AAAAAAAAOho/rMzWHGYxQoM63HkGttfTNrkMS8H1VOPxwCLcBGAs/s1600/2qqcdAY.gif">
 
 <p align="left"> <a href="https://twitter.com/iamz1san" target="blank"><img src="https://img.shields.io/twitter/follow/iamz1san?logo=twitter&style=for-the-badge" alt="iamz1san" /></a> </p>
