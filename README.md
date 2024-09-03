@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Express js , Node Js , React**
 
-- 💬 Ask me about **JavaScript , DSA ,Responsive Web Design**
+- 💬 Ask me about **JavaScript , DSA , Responsive Web Design**
 
 - 📫 How to reach me **sakibhossainzisan@gmail.com**
 
