@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamz1san" target="blank"><img src="https://img.shields.io/twitter/follow/iamz1san?logo=twitter&style=for-the-badge" alt="iamz1san" /></a> </p>
 
-- 🌱 I’m currently learning **LLM , RAG**
+- 🌱 I’m currently learning **Gen AI**
 
 - 💬 Ask me about **JavaScript , DSA , React**
 
